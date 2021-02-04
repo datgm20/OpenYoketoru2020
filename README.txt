@@ -40,16 +40,16 @@ Essensial Resources と Examples and Extras を両方ともインポートしま
 〇Asset Storeからインポート
 以下のアセットをAsset Storeからインポートします。
 
-dreamlevel. DL Fantasy RPG Effects
-  https://assetstore.unity.com/packages/vfx/particles/dl-fantasy-rpg-effects-68246
-Gold Coins
-  https://assetstore.unity.com/packages/3d/props/gold-coins-1810#content
-LowPoly Rocks
-  https://assetstore.unity.com/packages/3d/environments/lowpoly-rocks-137970
-SciFi Enemies and Vehicles
-  https://assetstore.unity.com/packages/3d/characters/robots/scifi-enemies-and-vehicles-15159
-RPG Monster Duo PBR Polyart
-  https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762
+・DL Fantasy RPG Effects
+https://assetstore.unity.com/packages/vfx/particles/dl-fantasy-rpg-effects-68246
+・Gold Coins
+https://assetstore.unity.com/packages/3d/props/gold-coins-1810#content
+・LowPoly Rocks
+https://assetstore.unity.com/packages/3d/environments/lowpoly-rocks-137970
+・SciFi Enemies and Vehicles
+https://assetstore.unity.com/packages/3d/characters/robots/scifi-enemies-and-vehicles-15159
+・RPG Monster Duo PBR Polyart
+https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762
 
 
 ◆スクリプト概要
