@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 13444f75d34718446ba9ae34db09136e
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: c7758d26454c5a84f9d6ab97eaa349b5
+  - enabled: 1
+    path: Assets/Scenes/Clear.unity
+    guid: 59e7f9f7f1217a9458700fc862641827
+  - enabled: 1
+    path: Assets/naichilab/unity-simple-ranking/Scenes/Ranking.unity
+    guid: 152244f5855414ac4a3874f14efa583c
   m_configObjects: {}
