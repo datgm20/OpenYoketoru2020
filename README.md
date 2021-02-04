@@ -30,10 +30,7 @@
 本リポジトリーはアセットを含みません。クローンしたら以下を実施してください。
 
 ### TextMesh Pro
-初回起動時に以下を実行。
-
-- TextMesh ProのEssensial Resources のインポートを実施
-- WindowメニューからTextMesh Pro > Import TMP Examples and Extras をインポート
+初回起動時にダイアログが表示されるので、TextMesh ProのEssensial Resources と Examples and Extras を両方ともインポートします。
 
 ### Asset Storeからインポート
 以下のアセットをAsset Storeからインポートします。

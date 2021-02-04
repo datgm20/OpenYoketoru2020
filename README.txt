@@ -34,10 +34,8 @@ https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html
 本リポジトリーはアセットを含みません。クローンしたら以下を実施してください。
 
 〇TextMesh Pro
-初回起動時に以下を実行。
-
-- TextMesh ProのEssensial Resources のインポートを実施
-- WindowメニューからTextMesh Pro > Import TMP Examples and Extras をインポート
+初回起動時にダイアログが表示されるので、TextMesh Proの
+Essensial Resources と Examples and Extras を両方ともインポートします。
 
 〇Asset Storeからインポート
 以下のアセットをAsset Storeからインポートします。
