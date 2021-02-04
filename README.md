@@ -19,7 +19,7 @@
 - トゲの甲羅にぶつかるか10秒経過でゲームオーバー
 
 ## 公開先
-- [ゲームのページを開く](./WebGL/index.html)
+- [ゲームのページを開く](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)
 
 **※ネットランキングはAPIキー未設定のため動作しません。**
 
